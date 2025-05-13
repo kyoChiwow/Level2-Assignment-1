@@ -8,6 +8,7 @@ console.log(stringFormat("Hello"));
 console.log(stringFormat("Hello", true));
 console.log(stringFormat("Hello", false));
 
+
 function filterAt(items: { title: string; rating: number }[]): { title: string; rating: number }[] {
   return items.filter((item) => item.rating >= 4);
 }
