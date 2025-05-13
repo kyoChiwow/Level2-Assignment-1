@@ -81,10 +81,3 @@ Both Enums and Type Inference play a critical role in creating clean, maintainab
 * Leverage **Type Inference** to write less but safer code.
 
 Explore these tools more in your projects to write expressive and reliable TypeScript code!
-
-```
-
----
-
-Let me know if you'd like it exported as a file or if you want to include code blocks or formatting tailored for a blog platform like Hashnode, Dev.to, or Medium.
-```
